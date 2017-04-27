@@ -1,6 +1,6 @@
-# Network.Obmenka.by
+# Club.Obmenka.by
 
-1 git clone;
+1 git clone https://github.com/mikhalkevich/club;
 2 composer self-update
 3 composer install
 
